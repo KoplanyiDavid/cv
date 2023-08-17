@@ -1,0 +1,44 @@
+/***********TAG SELECTORS************/
+
+body {
+    background-color: rgb(43, 43, 43);
+}
+hr {
+    border-style: none;
+    border-top-style: groove;
+    border-color: whitesmoke;
+    border-width: 5px;
+    width: 100%;
+}
+
+h1 {
+    color: whitesmoke;
+}
+
+h3 {
+    color: whitesmoke;
+}
+
+em {
+    color: whitesmoke;
+}
+th {
+    color: whitesmoke;
+}
+td {
+    color: whitesmoke;
+}
+a {
+    color: whitesmoke;
+}
+li {
+    color: whitesmoke;
+}
+p {
+    color: whitesmoke;
+}
+
+/**********CLASS SELECTORS***********/
+.profilepicture {
+    background-color: aqua;
+}
